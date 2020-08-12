@@ -16,7 +16,6 @@ public class PlayerMovement : MonoBehaviour
     //variables to play with
     public float speed = 2.0f;
     public float horizMovement;     //horizontal movement. This equals, 1 -1 or 0
-    public float vertMovement;     //vertical movement
 
 
     // Start is called before the first frame update
